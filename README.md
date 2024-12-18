@@ -11,7 +11,7 @@ A Spring Boot-based Quiz Application that supports user sessions, random questio
 ## Running the Project
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/sigar445/Quiz-application.git
    ```
 2. Build the project:
    ```bash
